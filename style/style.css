@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+CU:wght@100..400&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+:root {
+  --button-color: #2196f3;
+  --main-color: #2f303a;
+  --main-white-color: #ffffff;
+  --main-black-color: #212121;
+}
+
+.body {
+  font-family: "Inter";
+}
+
+.button {
+  background-color: #2196f3;
+  color: white;
+  width: 216px;
+  height: 50px;
+  border-radius: 4px;
+}
+
+
+.container {
+  width: 100%;   
+  max-width: 100%;
+  height: 600px;    
+  margin: 0 auto;    
+  padding: 0 20px;   
+}
+
+.header {
+  width: 100%;
+  height: 80px;
+}
+
+.main {
+  width: 100%;
+  height: 600px;
+  margin-top: 80px;
+  background-color: #2f303a;
+}
+
+.advantages {
+  width: 100%;
+  height: 98px;
+}
+
+.about {
+  width: 100%;
+  height: 386px;
+}
+
+.team {
+
+}
+
+.footer {
+  width: 100%;
+  height: 252px;
+}
